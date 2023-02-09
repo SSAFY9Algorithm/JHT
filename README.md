@@ -15,7 +15,7 @@
 여기가 코드 끝이라 위에는 블록처리 - 이야 앞뒤에 enter 필수다. 안 그러면 원하는 결과 못얻음 & tab 한번 더 해야된다 이건 좀 아닌듯
   
 그리고 '''와 '''사이에 코드 넣기
-''' java
+''' Java
 package test;
 public class Main {
 	public static void main(String[] args) {
