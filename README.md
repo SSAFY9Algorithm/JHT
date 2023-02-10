@@ -71,10 +71,9 @@ BlockQuote?
 
 ㅇㅎ! issue에 새 이슈 만들고 이미지 넣고 기다리면 HTML 주소 나오는 데 그거 복사해서 넣으면됨.
 
-링크
-link: [Google] (https://google.com, "커서올리면 나타남") |
-link: [이름2] (https://google.com)
+링크 쓸일 없겠지?
 
 강조방법
 
-
+**1번강조**
+__2번강조__
