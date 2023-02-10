@@ -70,3 +70,5 @@ BlockQuote?
 
 
 makefile은 42서울에서도 안 했으니 할줄 아는 놈 시키면 됨 (나만 아니면 됨)
+
+![readme test](https://user-images.githubusercontent.com/72692422/217966233-8023928f-9b7f-486e-b4e5-b63434234d0e.png)
