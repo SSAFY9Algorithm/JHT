@@ -70,3 +70,11 @@ BlockQuote?
 ![readme test](https://user-images.githubusercontent.com/72692422/217966233-8023928f-9b7f-486e-b4e5-b63434234d0e.png)
 
 ㅇㅎ! issue에 새 이슈 만들고 이미지 넣고 기다리면 HTML 주소 나오는 데 그거 복사해서 넣으면됨.
+
+링크
+link: [이름1] (https://google.com, "이동")
+link: [이름2] (https://google.com)
+
+강조방법
+
+
