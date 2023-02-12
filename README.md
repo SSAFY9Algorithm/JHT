@@ -81,11 +81,11 @@ __2번강조__
 ~~취소~~
 # 끝!
 
-매번 까먹음. 빨리 외워야지.
-git init
-git remote add origin https://github.com/~.git
-git pull origin 브런치이름
-git checkout -b 브런치이름
-git add .
-git commit -m "어쩌구"
-git push origin 브런치이름
+매번 까먹음. 빨리 외워야지.   
+git init   
+git remote add origin https://github.com/~.git   
+git pull origin 브런치이름   
+git checkout -b 브런치이름   
+git add .   
+git commit -m "어쩌구"  
+git push origin 브런치이름  
