@@ -3,7 +3,7 @@ package study.day0215;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-
+ 
 public class Main_백준_9663_NQueen_4772ms {
 	static int [] arr ;// 퀸을 놓을 판
 	static int ans = 0 , N;

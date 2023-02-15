@@ -4,7 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
-
+ 
 public class Main_백준_10971_외판원순회2_전현태_96ms {
 	static int [][] map;
 	static int N, isSelected = 0;

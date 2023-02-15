@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Queue;
 import java.util.StringTokenizer;
-
+ 
 public class Main_백준_14567_선수과목_564ms
 {
 	public static void main(String[] args) throws IOException {
