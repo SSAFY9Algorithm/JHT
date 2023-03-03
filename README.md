@@ -90,7 +90,7 @@ git add .
 git commit -m "어쩌구"  
 git push origin 브런치이름  
 ------------
-git이름 & 이메일 변경 (타 컴퓨터에서)
-git config user.email
-git config --global user.email 변경이메일
-git config --global user.name 변경이름
+git이름 & 이메일 변경 (타 컴퓨터에서)   
+git config user.email   
+git config --global user.email 변경이메일   
+git config --global user.name 변경이름   
