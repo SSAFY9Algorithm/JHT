@@ -9,7 +9,7 @@ import java.util.StringTokenizer;
  * 이게 왜맞는 거냐?
  * 이해가 안되네
  */
-public class Main_백준_1106_호텔 {
+public class Main_백준_1106_호텔_312ms {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine());
