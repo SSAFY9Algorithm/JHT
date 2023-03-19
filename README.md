@@ -71,6 +71,9 @@ BlockQuote?
 
 ㅇㅎ! issue에 새 이슈 만들고 이미지 넣고 기다리면 HTML 주소 나오는 데 그거 복사해서 넣으면됨.
 
+- 파일에 넣고자하는 이미지 넣기&
+- ![image-1.png](./readmeIMG/image-1.png)
+
 링크 쓸일 없겠지?   
 
 강조방법
