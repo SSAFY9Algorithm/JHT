@@ -8,7 +8,18 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.StringTokenizer;
 
-public class Main_백준_1565_수학 {
+/**
+ * 
+ * GCD - 최대공약수구하는 함수
+ * 유클리드 호제법을 이용하여 최대 공약수 구함
+ * A,B의 최소 공배수(LCM) = A * B / (A,B의 최대 공약수)
+ * 정답 = (M의 GCD) / (D의LCM) 의 약수 개수
+ *  => 인수 분해후 (인자 개수 + 1)들의 곱
+ *
+ *
+ *	유클리드 호제법에서 Math.max , Math.min 사용해서 시간 초과 나왔었음 - 방식은 맞는 듯
+ */
+public class Main_백준_1565_수학_152ms {
 	public static void main(String[] args) throws IOException {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		StringTokenizer st = new StringTokenizer(br.readLine(), " ");
