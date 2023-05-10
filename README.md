@@ -71,6 +71,9 @@ BlockQuote?
 
 ㅇㅎ! issue에 새 이슈 만들고 이미지 넣고 기다리면 HTML 주소 나오는 데 그거 복사해서 넣으면됨.
 
+- 파일에 넣고자하는 이미지 넣기&
+- ![image-1.png](./readmeIMG/image-1.png)
+
 링크 쓸일 없겠지?   
 
 강조방법
@@ -80,3 +83,17 @@ __2번강조__
 *기울어지냐?*   
 ~~취소~~
 # 끝!
+
+매번 까먹음. 빨리 외워야지.   
+git init   
+git remote add origin https://github.com/~.git   
+git pull origin 브런치이름   
+git checkout -b 브런치이름   
+git add .   
+git commit -m "어쩌구"  
+git push origin 브런치이름  
+------------
+git이름 & 이메일 변경 (타 컴퓨터에서)   
+git config user.email   
+git config --global user.email 변경이메일   
+git config --global user.name 변경이름   
